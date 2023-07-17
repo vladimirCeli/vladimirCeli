@@ -15,8 +15,6 @@ Estas son algunas de las tecnologías y lenguajes de programación con los que m
 - Node.js
 - Django
 
-  ![snake gif](https://github.com/vladimirCeli/vladimirCeli/blob/output/github-contribution-grid-snake.gif)
-
 Además, tengo experiencia en el uso de herramientas como Git y Docker, lo que me permite colaborar eficientemente en proyectos de desarrollo en equipo.
 
 ## Contribuciones
@@ -31,3 +29,5 @@ Si deseas conocer más sobre mis proyectos o simplemente quieres saludar, puedes
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres algo interesante en mis repositorios. No dudes en explorar, ¡y no olvides dejar una estrellita en aquellos proyectos que te gusten! ⭐️
 # vladimirCeli
+
+  ![snake gif](https://github.com/vladimirCeli/vladimirCeli/blob/output/github-contribution-grid-snake.gif)
